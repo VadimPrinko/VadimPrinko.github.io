@@ -10,7 +10,7 @@ div {
 }
 
 .header{
-	height: 99vh;
+	height: 100vh;
 	position: relative;
 
 }
@@ -27,6 +27,7 @@ div {
 .header .headerBackground img{
 	display: block;
 	max-width: 100%;
+	height:100%;
 	
 }
 
@@ -223,6 +224,7 @@ div {
 	background-color: #e4e4e4!important; 
 	width: 100%;
 	height: 420px;
+	margin-top: 8px;
 }
 
 .about h2{

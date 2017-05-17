@@ -19,7 +19,7 @@ $(document).ready(function(){
 
 	setTimeout(function(){
 		$("body").addClass("loaded");
-	}, 100);
+	}, 1000);
 	
 });
 
